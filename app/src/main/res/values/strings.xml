@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="medicine_list_title">Medicines</string>
+    <string name="add_medicine_title">Add Medicine</string>
+    <string name="medicine_name_label">My Medicine App</string>
+    <string name="medicine_description_label">My Medicine App</string>
+    <string name="button_click_me">Click Me</string>
+    <string name="welcome_message">Welcome to My App!</string>
+
+</resources>
